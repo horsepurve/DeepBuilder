@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/wordslist.json</file>
+        <file>style.css</file>
+    </qresource>
+</RCC>

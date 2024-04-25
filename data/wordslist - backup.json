@@ -1,0 +1,27 @@
+{
+    "1":
+    {
+        "word":"apple",
+        "Note":"a kind of fruit",
+        "seen":0,
+        "known":0,
+        "forget":0,
+        "importance":0.0
+    },
+    "2":{
+        "word":"dog",
+        "Note":"cute animal",
+        "seen":0,
+        "known":0,
+        "forget":0,
+        "importance":0.0
+    },
+    "3":{
+        "word":"pen",
+        "Note":"use it to write",
+        "seen":0,
+        "known":0,
+        "forget":0,
+        "importance":0.0
+    }
+}

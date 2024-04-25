@@ -1,0 +1,39 @@
+MainWindow
+{
+    background-color: white;
+}
+
+QPushButton
+{
+    border-radius: 2px;
+    border: 1px solid rgb(89, 153, 48);
+    background: green;
+    color: white;
+}
+
+QTextEdit
+{
+    border: 1px solid green;
+    border-radius: 2px;
+    padding: 0 5px;
+    background: rgb(220,230,220);
+    selection-background-color: green;
+}
+
+QPushButton:hover
+{
+    background: #86BA10;
+}
+
+QLabel
+{
+    color: green;
+}
+
+QTableView
+{
+    border: 1px solid green;
+    border-radius: 2px;
+    padding: 0 5px;
+    selection-background-color: green;
+}

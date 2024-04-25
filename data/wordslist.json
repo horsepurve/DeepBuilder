@@ -1,0 +1,32 @@
+{
+    "apple":
+    {
+        "Note":["a kind of fruit.","the person one else loves deeply.","a company's name"],
+        "seen":1,
+        "known":0,
+        "forget":0,
+        "importance":4.0,
+        "link":["dog","pen"],
+        "date":"2016-01-01"
+    },
+    "dog":
+    {
+        "Note":["cute animal i like it i like it i love love love love it oh oh very cute su cute pretty cute oh my dog my dog"],
+        "seen":0,
+        "known":0,
+        "forget":0,
+        "importance":4.0,
+        "link":["apple","pen"],
+        "date":"2016-01-01"
+    },
+    "pen":
+    {
+        "Note":["use it to write","a long thing that can ..."],
+        "seen":0,
+        "known":0,
+        "forget":0,
+        "importance":3.0,
+        "link":["apple"],
+        "date":"2016-01-01"
+    }
+}
