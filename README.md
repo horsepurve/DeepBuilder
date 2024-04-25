@@ -11,13 +11,13 @@ DeepBuilder is an artificial intelligence-based vocabulary builder with Qt5 GUI 
 No installation is needed. Decompress the zip file in bin directory and click the exe file. You can specify the vocabulary file in config.json and the vocabulary file will be backed up automatically. 
 ### Tips
 There are several tips using DeepBuilder, and following is the maim panel of the software:
-</br><div align="center"><img src="https://github.com/horsepurve/DeepBuilder/blob/master/img/WordLink1.png" width="60%" alt="figure_1" /></div>
+</br><div align="center"><img src="https://github.com/horsepurve/DeepBuilder/blob/main/img/WordLink1.png" width="60%" alt="figure_1" /></div>
 * Add a new word to the list: type in the box and click <b>Add Word</b>
 * Add a new note to current word: type in the box and click <b>Add Note</b>
 * Search whether a word is in the list: type in the box and click <b>Search</b>
 * Link the current word to another word: type another word in the box and click <b>Link Word</b>
 * See your added words for each day: click <b>Analysis</b>:
-</br><div align="center"><img src="https://github.com/horsepurve/DeepBuilder/blob/master/img/WordLink2.png" width="60%" alt="figure_1" /></div>
+</br><div align="center"><img src="https://github.com/horsepurve/DeepBuilder/blob/main/img/WordLink2.png" width="60%" alt="figure_1" /></div>
 
 ### Build from Source
 You need Qt5 to compile the source code. 
