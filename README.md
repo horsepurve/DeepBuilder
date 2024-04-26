@@ -21,7 +21,5 @@ There are several tips using DeepBuilder, and following is the maim panel of the
 
 ### Build from Source
 You need Qt5 to compile the source code. 
-## Contact
-DeepBuilder is a Chunwei Ma product and is free for non-commercial use.
 
 Development date: Nov. 2017.
