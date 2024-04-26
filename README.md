@@ -2,7 +2,7 @@
 ## Introduction
 DeepBuilder is an artificial intelligence-based vocabulary builder with Qt5 GUI which can help you remember English words. Current approaches for vocabulary building are neither logical nor efficient. You remember words one by one discretely without knowing their connections, context, and importance.
 </br>DeepBuilder, instead, can systematically improve your vocabulary remembering, by means of the state-of-the-art deep learning techniques. DeepBuilder can help you with its following unique functions, note that some of which are still under development:
-* DeepBuilder was firstly trained on large corpuses and then fine-tuned on small corpuses specific to GRE or TOEFL using transfer learning due to the limited data for a specific exam. So you can chose your target exam when using DeepBuilder.
+* DeepBuilder was firstly trained on large corpuses and then fine-tuned on small corpuses using transfer learning due to the limited data for a specific exam. So you can chose your target exam when using DeepBuilder.
 * Each word has its forgetting curve and each person has his own forgetting curve for the same word. DeepBuilder collects forgetting curves for every word from every people. It will recommend words to you based on both corpus and your personalized model. 
 * Every word is placed in the word network and DeepBuilder will recommend the word easiest for you to remember based on your currently learned words using network algorithm.
 * Theoretically, building a behemoth word bank needs you to ingest tons of material. However, DeepBuilder can accelerate this process for you using the advanced AI algorithms.
