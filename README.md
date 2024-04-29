@@ -22,4 +22,4 @@ There are several tips using DeepBuilder, and following is the maim panel of the
 ### Build from Source
 You need Qt5 to compile the source code. 
 
-Development date: Nov. 2017.
+Development date: Apr. 2016.
